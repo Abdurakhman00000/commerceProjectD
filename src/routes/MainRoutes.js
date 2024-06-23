@@ -48,17 +48,6 @@ const MainRoutes = () => {
             id: 3,
         }, 
 
-        {
-            link: '/video',
-            element: <VideoPage/>,
-            id: 4,
-        },
-
-        {
-            link: '/videoProf',
-            element: <VideoPageProf/>,
-            id: 5,
-        },
 
         {
             link: '/canyon',

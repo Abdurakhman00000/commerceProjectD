@@ -61,15 +61,13 @@ const HomePage = () => {
             {/* VIDEO LINK */}
             <div className="video-link-blocks">
                         <div className="link1-block">
-                            <Link to='/video'>
                             <h3>Экстремальное <br /> вождение на горном <br /> велосипеде</h3>
-                            </Link>
                         </div>
                         <div className="link2-block">
-                            <Link to='/videoProf'> <h3>Велосипеды <br /> для профессионалов</h3></Link>
+                            <h3>Велосипеды <br /> для профессионалов</h3>
                         </div>
                         <div className="link3-block">
-                            <Link to='/canyon'> <h3>Долгая поездка <br /> на шоссейном велосипеде</h3></Link>
+                            <h3>Долгая поездка <br /> на шоссейном велосипеде</h3>
                         </div>
                     </div>
 
